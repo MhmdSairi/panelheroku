@@ -37,7 +37,7 @@ body{
   top: 0;
   left: 0;
   right: 0;
-  background: -webkit-repeating-linear-gradient(-45deg, #FFF6B7, #F6416C, #ffffff, #FCCF31, #F55555, #ABDCFF, #0396FF);
+  background: -webkit-repeating-linear-gradient(-45deg, #FFF6B7, #F6416C, #F048C6, #FCCF31, #F55555, #ABDCFF, #0396FF);
   background-size: 400%;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
